@@ -20,3 +20,15 @@ C:\Users\lauta\Downloads\PPAI\obj\Debug\PPAI.csproj.GenerateResource.cache
 C:\Users\lauta\Downloads\PPAI\obj\Debug\PPAI.csproj.CoreCompileInputs.cache
 C:\Users\lauta\Downloads\PPAI\obj\Debug\PPAI.exe
 C:\Users\lauta\Downloads\PPAI\obj\Debug\PPAI.pdb
+C:\Users\lauta\Source\Repos\PPAI-2022\PPAI\bin\Debug\PPAI.exe.config
+C:\Users\lauta\Source\Repos\PPAI-2022\PPAI\bin\Debug\PPAI.exe
+C:\Users\lauta\Source\Repos\PPAI-2022\PPAI\bin\Debug\PPAI.pdb
+C:\Users\lauta\Source\Repos\PPAI-2022\PPAI\obj\Debug\PPAI.csproj.AssemblyReference.cache
+C:\Users\lauta\Source\Repos\PPAI-2022\PPAI\obj\Debug\PPAI.csproj.SuggestedBindingRedirects.cache
+C:\Users\lauta\Source\Repos\PPAI-2022\PPAI\obj\Debug\PPAI.Interfaz.InterfazEmail.resources
+C:\Users\lauta\Source\Repos\PPAI-2022\PPAI\obj\Debug\PPAI.InterfazRegistrarReserva.resources
+C:\Users\lauta\Source\Repos\PPAI-2022\PPAI\obj\Debug\PPAI.Properties.Resources.resources
+C:\Users\lauta\Source\Repos\PPAI-2022\PPAI\obj\Debug\PPAI.csproj.GenerateResource.cache
+C:\Users\lauta\Source\Repos\PPAI-2022\PPAI\obj\Debug\PPAI.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Source\Repos\PPAI-2022\PPAI\obj\Debug\PPAI.exe
+C:\Users\lauta\Source\Repos\PPAI-2022\PPAI\obj\Debug\PPAI.pdb

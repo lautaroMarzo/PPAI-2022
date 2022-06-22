@@ -84,5 +84,10 @@ namespace PPAI
             nombreTipo = comboTipoRecursoTecnologico.SelectedItem.ToString();
             selecTipoRT(nombreTipo);
         }
+
+        private void grillaRecursoTecnologico_SelectionChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

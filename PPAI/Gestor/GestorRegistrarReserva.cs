@@ -223,6 +223,12 @@ namespace PPAI.Gestor
             estados.Add(estadoRecurso1);
             estados.Add(estadoRecurso2);
             estados.Add(estadoRecurso3);
+            CentroDeInvestigacion centroDeInvestigacion1 = new CentroDeInvestigacion();
+            CentroDeInvestigacion centroDeInvestigacion2 = new CentroDeInvestigacion();
+            CentroDeInvestigacion centroDeInvestigacion3 = new CentroDeInvestigacion();
+            centroInvestigacion.Add(centroDeInvestigacion1);
+            centroInvestigacion.Add(centroDeInvestigacion2);
+            centroInvestigacion.Add(centroDeInvestigacion3);
 
         }
 
